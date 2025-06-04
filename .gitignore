@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Data
+/data/raw/
+/data/processed/
+
+# Results
+/experiments/results/
+

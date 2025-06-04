@@ -1,0 +1,9 @@
+# Default training configuration
+
+data_dir: data/processed
+save_dir: experiments/results
+batch_size: 4
+sequence_length: 10
+feature_dim: 128
+epochs: 10
+lr: 0.001
